@@ -16,3 +16,12 @@ To run this template locally:
    ```bash
    npm install
    npx expo start
+
+
+```
+
+Or Native way
+```bash
+npx create-expo-app newApp --template https://github.com/Aravind-tanneri/ExpoApp-Template
+cd newApp
+npx expo start -c 
